@@ -12,7 +12,7 @@ let quotes = [
         "author": "Tyrion Lannister",
         "title": "Game of Thrones",
         "content": "N’oublie jamais ce que tu es, car le monde ne l’oubliera pas. Puise là ta force, ou tu t’en repentiras comme d’une faiblesse. Fais-t-en une armure, et nul ne pourra l’utiliser pour te blesser.",
-        "isFavorite": true
+        "isFavorite": false
     },
     {
         "id": 3,
